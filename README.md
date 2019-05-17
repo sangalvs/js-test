@@ -3,7 +3,7 @@
 > Your function should replace all of the bracket separated values with a random option from inside  
 > **example input:**  
 > {crew member|production crew member|video crew member|staff member}  
-> example outputs:  
+> **example outputs:**  
 > video crew member OR production crew member...  
 
 **Input string:**
