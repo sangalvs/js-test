@@ -1,6 +1,6 @@
 # JS-Test -- Write a function that accepts a string and outputs a string
 
-> Your function should replace all of the bracket seperated values with a random option from inside
+> Your function should replace all of the bracket seperated values with a random option from inside  
 > {crew member|production crew member|video crew member} => video crew member
 
 **Input string:**
